@@ -8,6 +8,7 @@ Lab: 1
 ---
 
 ## Part 1: Capturing HTTP Traffic
+![TCP Handshake](Lab1_HTTP_Packets.png)
 
 ### Task 1: Start Wireshark and capture packets
 **Screenshot:**  
