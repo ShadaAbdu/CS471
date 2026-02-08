@@ -8,7 +8,6 @@ Lab: 1
 ---
 
 ## Part 1: Capturing HTTP Traffic
-![TCP Handshake](Lab1_HTTP_Packets.png)
 
 ### Task 1: Start Wireshark and capture packets
 **Screenshot:**  
@@ -17,6 +16,7 @@ Lab: 1
 ### Task 2: Filter HTTP packets and analyze them
 **Screenshot:**  
 - HTTP GET request and HTTP 200 OK response
+- ![TCP Handshake](Lab1_HTTP_Packets.png)
 
 ---
 
@@ -54,10 +54,7 @@ UDP has a simpler header compared to TCP and does not use sequence numbers or ac
 
 ### Task 1: Reliability and Data Handling
 
-| TCP or UDP | Reasons |
-|-----------|---------|
-| TCP | TCP is reliable and connection-oriented. It establishes a connection using a three-way handshake. |
-| TCP | TCP ensures data integrity and correct ordering using sequence numbers and acknowledgments. |
+![TCP Handshake](Comparing TCP and UDP.png)
 
 ### Task 2: Use Cases and Performance
 
