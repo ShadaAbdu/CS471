@@ -39,14 +39,13 @@ Lab: 1
 
 ### Task 1: Generate UDP traffic
 **Screenshot:**  
-- Lab1_UDP_Packet.png
-- Lab1_UDP_Packet.png
+- ![TCP Handshake](Lab1_UDP_Packet.png)
 
 ### Task 2: Filter and analyze UDP packets
 **Screenshot:**  
-- UDP packet details (source port, destination port, length, data)
+- UDP packet details
+- ![TCP Handshake](Lab1_UDP_Capture.png)
 
-**Note:**  
 UDP has a simpler header compared to TCP and does not use sequence numbers or acknowledgments.
 
 ---
