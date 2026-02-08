@@ -1,7 +1,7 @@
 # CS471 – Web Technologies
 ## Lab 1: Internet Protocols
 
-Student Name: ____________________  
+Student Name: Shada Alshayie
 Course: CS471  
 Lab: 1  
 
@@ -24,7 +24,7 @@ Lab: 1
 
 ### Task 1: Filter TCP packets
 **Screenshot:**  
-- Follow TCP Stream showing client-server communication
+- ![TCP Handshake](Lab1_TCP_Filter.png)
 
 ### Task 2: TCP Handshake, Data Transfer, and Termination
 **Screenshots:**
@@ -32,14 +32,15 @@ Lab: 1
 - Sequence and Acknowledgment numbers
 - Data transfer packets
 - TCP termination (FIN, ACK)
-
+![TCP Handshake](Lab1_TCP_Stream.png)
 ---
 
 ## Part 3: Capturing and Analyzing UDP Traffic
 
 ### Task 1: Generate UDP traffic
 **Screenshot:**  
-- UDP traffic capture
+- Lab1_UDP_Packet.png
+- Lab1_UDP_Packet.png
 
 ### Task 2: Filter and analyze UDP packets
 **Screenshot:**  
