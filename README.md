@@ -66,9 +66,3 @@ UDP has a simpler header compared to TCP and does not use sequence numbers or ac
 | Use cases | Web browsing, email, file transfer | Streaming, VoIP, gaming, DNS |
 | Performance | Slower but reliable | Faster with low overhead |
 
----
-
-## Instructions
-- Add your screenshots in this repository.
-- Name screenshots clearly (e.g., tcp_handshake.png, udp_packet.png).
-- Commit and push all files to your Git repository.
