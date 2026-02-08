@@ -54,7 +54,7 @@ UDP has a simpler header compared to TCP and does not use sequence numbers or ac
 
 ### Task 1: Reliability and Data Handling
 
-![TCP Handshake](Comparing TCP and UDP.png)
+![TCP Handshake](Comparing TCP and UDP)
 
 ### Task 2: Use Cases and Performance
 
